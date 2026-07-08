@@ -27,6 +27,8 @@ The project is organized into three components:
 | `language` | The core language definition. |
 | `vscode-extension` | Editor tooling and language support for VS Code. |
 | `example` | Worked examples demonstrating the language. |
+| `docs` | Docuemntation on the language. | 
+
 
 ## Contributing
 
